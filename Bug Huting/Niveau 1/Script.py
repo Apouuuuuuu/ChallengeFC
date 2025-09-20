@@ -18,7 +18,7 @@ def calculer_prix_total(prix_articles):
     return round(total)
 
 # Tests
-panier1 = [25.50, 15.20, 12.34,]  # Panier avec remise
+panier1 = [25.50, 15.20, 12.34]  # Panier avec remise
 panier2 = [10.33, 15.40]  # Panier sans remise
 
 print("Panier 1:", calculer_prix_total(panier1))
