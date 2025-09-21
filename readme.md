@@ -43,42 +43,42 @@ Bonne chance à tous !
   </thead>
   <tbody>
     <tr>
-      <td><a href="./Bug-Hunting/README.md">🐛Bug-Hunting</a></td>
+      <td><a href="./Bug-Hunting/readme.md">🐛Bug-Hunting</a></td>
       <td>Trouvez et corrigez les bugs dans le code</td>
       <td>🟢 🟡 🔴</td>
       <td>4 / 6 / 8</td>
       <td>18</td>
     </tr>
     <tr>
-      <td><a href="./Code-Golf/README.md">⛳Code-Golf</a></td>
+      <td><a href="./Code-Golf/readme.md">⛳Code-Golf</a></td>
       <td>Optimisez le code au maximum de lignes</td>
       <td>🟢 🟡 🔴</td>
       <td>5 / 8 / 10</td>
       <td>23</td>
     </tr>
     <tr>
-      <td><a href="./Failles-SQL/README.md">🥷Failles-SQL</a></td>
+      <td><a href="./Failles-SQL/readme.md">🥷Failles-SQL</a></td>
       <td>Exploitez des injections SQL</td>
       <td>🟡</td>
       <td>6</td>
       <td>6</td>
     </tr>
     <tr>
-      <td><a href="./Reverse-Engineering/README.md">⚙️Reverse-Engineering</a></td>
+      <td><a href="./Reverse-Engineering/readme.md">⚙️Reverse-Engineering</a></td>
       <td>Analysez et expliquez le code mystère</td>
       <td>🟢 🟡 🔴</td>
       <td>5 / 8 / 10</td>
       <td>23</td>
     </tr>
     <tr>
-      <td><a href="./Script-Creation/README.md">🎨Script-Creation</a></td>
+      <td><a href="./Script-Creation/readme.md">🎨Script-Creation</a></td>
       <td>Créez des scripts selon une demande</td>
       <td>🟢 🟡 🔴</td>
       <td>5 / 9 / 12</td>
       <td>26</td>
     </tr>
     <tr>
-      <td><a href="./Security-Bug/README.md">🛡️Security-Bug</a></td>
+      <td><a href="./Security-Bug/readme.md">🛡️Security-Bug</a></td>
       <td>Identifiez les failles de sécurité</td>
       <td>🟢 🟡 🔴</td>
       <td>4 / 7 / 10</td>
