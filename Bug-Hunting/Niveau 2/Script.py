@@ -5,18 +5,21 @@ Script de calcul de remise et TVA
 Calculer le prix total d'un panier avec remises progressives et TVA
 
 Résultat attendu : 
-Sous-total: 106.0€
-Après remise: 90.1€
-Total TTC: 108.12€
+Sous-total: 277.0€
+Après remise: 207.75€
+Total TTC: 249.3€
 """
 
 class ShoppingCart:
     def __init__(self, tax_rate=0.20):
         self.items = []
         self.tax_rate = tax_rate
+        
+        # Interdiction de toucher les lignes 19 à 24 !
         self.discount_rates = {
             100: 0.15,  # 15% si > 100€
             50: 0.10,   # 10% si > 50€
+            200: 0.25,  # 25% si > 200€
             0: 0.0      # Pas de remise
         }
     
